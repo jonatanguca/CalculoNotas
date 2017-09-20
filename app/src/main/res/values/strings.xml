@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cálculo notas</string>
+    <string name="vale">VALE</string>
+    <string name="daigual">NO</string>
+</resources>
